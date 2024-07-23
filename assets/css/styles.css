@@ -204,6 +204,10 @@ nav ul li {
     width: 21.875rem;
     padding: 1rem;
 }
+.img{
+    width: 140%;
+    height: 100%; 
+}
 
 .project-container p {
     padding: 0.4rem;
